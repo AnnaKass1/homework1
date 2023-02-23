@@ -1,6 +1,6 @@
 ##### What is the name of the company?
 Moneris is a large fintech company.
-#####When was the company incorporated? Who are the founders of the company?
+##### When was the company incorporated? Who are the founders of the company?
 Moneris was established in December 2000 as a joint venture between the Royal Bank of Canada and Bank of Montreal. 
 The company is headquartered in the Toronto suburb of Etobicoke, Ontario and has offices in Sackville, New Brunswick, 
 Burnaby, British Columbia, Montreal, Quebec, and Calgary, Alberta.
@@ -10,7 +10,7 @@ Moneris was the first Canadian payment processor to use an integrated point-of-s
 proceeds from all card transactions flow into a single deposit account. 
 ##### What specific financial problem is the company or project trying to solve?
 Moneris has substansial list of competitors that are trying to get it's share in the market: such as Glover, Chase, 
-TD, and this is becoming the bigger problem,
+TD, and this is becoming the bigger problem.
 ##### Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 Although the company provids payment solution for all government services, some pahramcies and fast food restaurants. It has more than
 350,000 merchants, and processes more than 3 billion transactions a year.
@@ -43,5 +43,5 @@ The most modern marketing technics, applications will be used in Moneris marketi
 
 Link to recources:
 
-  *[Moneirs.com](https://www.moneris.com)
+  *[Moneris.com](https://www.moneris.com)
   *[Google.com](https://www.google.com)
