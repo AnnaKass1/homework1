@@ -25,8 +25,12 @@ Moneris (formerly "Moneris Solutions") is a Canadian financial technology compan
 ##### What have been the major trends and innovations of this domain over the last 5–10 years?
 Moneris is Canada's largest provider of innovative solutions for mobile, online and in-store payments, processing more than one in three transactions.
 Company has the fastest, sleekest terminals: Moneris Go and Moneris Go Plus, also they have created the online payment solution for websites which has fraud protection too.
+
+
 ![monerisgo.jpg](https://github.com/AnnaKass1/homework1/blob/main/Images/monerisgo.jpg "Moneris.com")
 ![monerisgop.jpg](https://github.com/AnnaKass1/homework1/blob/main/Images/monerisgop.jpg "Moneris.com")
+
+
 ##### What are the other major companies in this domain?
 Other major companies in this domain are: Chase, TD, Clover, square, Global payment.
 
