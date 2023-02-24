@@ -1,5 +1,4 @@
-!(https://github.com/AnnaKass1/homework1/tree/main/Images/moneris_logo.jpg "Moneris.com")
-
+![moneris_logo.jpg](https://github.com/AnnaKass1/Homework1/blob/main/Images/moneris_logo.jpg "Moneris.com")
 ##### What is the name of the company?
 Moneris is a large fintech company.
 ##### When was the company incorporated? Who are the founders of the company?
